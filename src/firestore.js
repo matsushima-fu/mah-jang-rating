@@ -1,5 +1,5 @@
-import firebase from 'firebase' 
-  const firebaseConfig = {
+import firebase from 'firebase'
+  const firebaseConfig = {
     apiKey: "AIzaSyChGdfMusz0SCeRN0457f0y7TEVZsvOw8o",
     authDomain: "mah-jang-rating.firebaseapp.com",
     projectId: "mah-jang-rating",
